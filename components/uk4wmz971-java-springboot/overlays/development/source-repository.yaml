@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: uk4wmz971-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/uk4wmz971-java-springboot
